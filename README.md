@@ -1,2 +1,2 @@
 # Exam-Matching-System
-An AI-powered exam matching system that aligns job descriptions with relevant test questions using semantic similarity and keyword extraction techniques, ensuring precise competency assessments for job applicants.
+This project develops an AI-driven system for matching job descriptions with relevant exam questions. The goal is to assist employers and job seekers in accurately assessing skills and competencies required for specific roles. The system leverages SBERT, KeyBERT, and Cosine Similarity to analyze semantic relationships between job descriptions and test questions. This research is part of a submission for The International Conference on Cybernetics and Innovations (ICCI 2025).
